@@ -49,8 +49,11 @@ As a **Senior Business Analyst**, I conceptualized and built **CargoSurveyor** t
    git clone [https://github.com/Juswind/cargo-surveyor.git](https://github.com/Juswind/cargo-surveyor.git)
 
   (Update the repository URL above if you name your GitHub repo differently.)
+  
 2. Open the project in Android Studio.
+
 3. Copy .env.example to .env (or add your key to local.properties) and configure your own Gemini API key:GEMINI_API_KEY=your_api_key_here
+
 4. Build and run on an Android device or emulator.
 
 ## About the Author
