@@ -1,0 +1,6 @@
+{
+  "name": "CargoSurveyor",
+  "description": "AI Maritime and Logistics Cargo Inspection Surveyor for shipping containers, air freight, pallets, and compliance violations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
