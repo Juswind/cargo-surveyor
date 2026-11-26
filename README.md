@@ -56,8 +56,8 @@ As a **Senior Business Analyst**, I conceptualized and built **CargoSurveyor** t
 ## About the Author
 Andrews Rajkumar — Senior Business Analyst | Supply Chain, ERP & TMS Workflows | CargoWise Certified Professional (CCP)
 
-Portfolio: juswind.github.io
+Portfolio: (https://juswind.github.io/)
 
-LinkedIn: linkedin.com/in/andrews-rajkumar
+LinkedIn: (https://www.linkedin.com/in/andrews-rajkumar/)
 
-YouTube: @AndrewsRajkumarEDI
+YouTube: (https://www.youtube.com/@AndrewsRajkumarEDI)
